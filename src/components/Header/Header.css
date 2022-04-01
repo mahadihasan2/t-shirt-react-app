@@ -6,3 +6,8 @@ nav a{
 nav a:hover{
     color: orange;
 }
+.nav-link{
+    display: flex;
+    align-items: center;
+   margin-left: 45%;
+}

@@ -4,7 +4,7 @@
         "name":"Puma shirt",
         "index":4,
         "picture":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/854742/01/mod01/fnd/EEA/fmt/png/Essentials-Men's-Tee",
-        "_price":14
+        "price":14
 
     },
     {
@@ -29,6 +29,38 @@
         "index":2,
         "picture":"https://m.media-amazon.com/images/I/B1EryObaEWS._CLa%7C2140%2C2000%7C61V-1d89XyL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png",
         "price":20
+
+    },
+    {
+        "_id":"432161735423144455559",
+        "name":" Dorjibari shirt",
+        "index":10,
+        "picture":"https://dorjibari.com.bd/pub/media/catalog/product/cache/2a6b0744b87cbe1990f7a65c1fd3659e/0/1/01popo_1_1.jpg",
+        "price":22
+
+    },
+    {
+        "_id":"432161735423144455559",
+        "name":" Dorjibari shirt",
+        "index":10,
+        "picture":"https://dorjibari.com.bd/pub/media/catalog/product/cache/2a6b0744b87cbe1990f7a65c1fd3659e/0/1/01popo_1_1.jpg",
+        "price":22
+
+    },
+    {
+        "_id":"432161735423144455559",
+        "name":" Dorjibari shirt",
+        "index":10,
+        "picture":"https://dorjibari.com.bd/pub/media/catalog/product/cache/2a6b0744b87cbe1990f7a65c1fd3659e/0/1/01popo_1_1.jpg",
+        "price":22
+
+    },
+    {
+        "_id":"432161735423144455559",
+        "name":" Dorjibari shirt",
+        "index":10,
+        "picture":"https://dorjibari.com.bd/pub/media/catalog/product/cache/2a6b0744b87cbe1990f7a65c1fd3659e/0/1/01popo_1_1.jpg",
+        "price":22
 
     },
     {

@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div>
             <h1>T-shirt Maniya</h1>
-            <nav>
+            <nav className='nav-link'>
                <CustomLink to="/">Home</CustomLink>
                <CustomLink to="/orderreview">Order Review</CustomLink>
             </nav>
