@@ -1,0 +1,9 @@
+.grandpa-container, .grandpa-container div{
+    border: 2px solid goldenrod;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.grandpa-container p{
+    margin: 10px 20px;
+}
